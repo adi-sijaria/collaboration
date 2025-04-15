@@ -3,6 +3,12 @@ using namespace std;
 
 
 int main() {
-    cout << "Hello, World!" << endl;
-    return 0;
+    int i=0;
+    
+    for(i<=10){
+        cout<< "arpit bala"<< endl;
+         
+         i++;
+         
+    }
 }
